@@ -41,7 +41,7 @@ To compute and analyse the **heat transfer dynamics** of an ethanol-water distil
    - Mixture concentrations: **15%, 60%, 80%, 95.6% ethanol by weight**.  
    - Plate: Stainless steel (1 mm thick, k = 16.7 W/m·K).  
 
-   **(Insert schematic of heat transfer process — steam, plate, mixture)**  
+  <img src="Screenshot 2025-09-05 135907.png" height="30%" width="30%" />
 
 2. **Equations Applied**  
    - Newton’s Law of Cooling (steam → wall).  
@@ -73,9 +73,7 @@ Final values were computed for each mixture & steam temperature.
   - ṁ_water (kg/m²·hr)  
   - ṁ_mix (kg/m²·hr)  
 
-**(Insert screenshot of MATLAB results table for 150 °C)**  
-**(Insert screenshot of results table for 180 °C)**  
-**(Insert screenshot of results table for offset temperature, e.g., 217 °C)**  
+<img src="Screenshot 2025-09-05 135957.png" height="30%" width="30%" />
 
 ---
 
