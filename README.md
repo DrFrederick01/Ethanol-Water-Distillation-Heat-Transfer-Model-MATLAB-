@@ -4,7 +4,7 @@ This MATLAB-based project models the **heat transfer and mass separation** durin
 
 ---
 
-## 🎯 Objective  
+## Objective  
 
 To compute and analyse the **heat transfer dynamics** of an ethanol-water distillation column, focusing on:  
 
@@ -16,7 +16,7 @@ To compute and analyse the **heat transfer dynamics** of an ethanol-water distil
 
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 
 - **MATLAB** (iterative computation + tabular data handling)  
 - **Custom functions** (heat transfer coefficient, Rayleigh/Nusselt numbers, viscosity, etc.)  
@@ -24,7 +24,7 @@ To compute and analyse the **heat transfer dynamics** of an ethanol-water distil
 
 ---
 
-## 🧠 Key Concepts  
+## Key Concepts  
 
 - Heat transfer by **condensation** (Gerstmann & Griffith correlation).  
 - Heat transfer by **nucleate boiling** (Kutateladze correlation).  
@@ -34,7 +34,7 @@ To compute and analyse the **heat transfer dynamics** of an ethanol-water distil
 
 ---
 
-## ⚙️ Methodology  
+##  Methodology  
 
 1. **Problem Setup**  
    - Steam at temperatures: **150 °C, 180 °C, and 200 °C + K-number offset**.  
@@ -60,7 +60,7 @@ To compute and analyse the **heat transfer dynamics** of an ethanol-water distil
 
 ---
 
-## 📊 Results  
+## Results  
 
 Final values were computed for each mixture & steam temperature.  
 
@@ -77,7 +77,7 @@ Final values were computed for each mixture & steam temperature.
 
 ---
 
-## 🚧 Challenges  
+## Challenges  
 
 - **Coupled equations**: Only 3 governing equations for 5 unknowns, requiring iterative interdependence.  
 - **Calibration**: Heat transfer coefficients vary strongly with ethanol concentration.  
@@ -95,5 +95,4 @@ Final values were computed for each mixture & steam temperature.
 
 ---
 
-## 📁 Repository Structure  
 
